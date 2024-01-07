@@ -1,7 +1,21 @@
-### Hi there 👋
 
-<a href="https://blog.naver.com/sotabucks" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square?logo=Blogger&logoColor=white"/></a>
+<a href="https://blog.naver.com/sotabucks" target="_blank"><img src="https://img.shields.io/badge/Blog-03c75a?style=flat-square&logo=Blogger&logoColor=black"/></a>
+<a href="https://www.instagram.com/soutacchin_08/" target="_blank"><img src="https://img.shields.io/badge/Insta-e4405f?style=flat-square&logo=Instacart&logoColor=black"/></a>
+<a href="mailto: kimsoungyoon01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
+Hi there 👋<br>
+I want to work on web servers🎈<br>
+Thank you for visiting my git😙
+
+### Learning 🎓
+<strong>Languages</strong><br>
+<div>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PyG&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-FC4C02?style=flat-square&logo=Strava&logoColor=white"/>
+</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagsoung@daum.net&show_icons=true&theme=radical)
 
 <!--
 **SoutaBucks/SoutaBucks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
