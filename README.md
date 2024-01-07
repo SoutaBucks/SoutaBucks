@@ -19,7 +19,7 @@ Thank you for visiting my git😙
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=SoutaBucks&show_icons=true&theme=radical"/>
 
-
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ms_pocha23">
 
 
 <!--
