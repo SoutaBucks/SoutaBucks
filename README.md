@@ -1,11 +1,15 @@
 
 <div align="center">
+    <h2>Welcome to SoutaBucks ☕</h2>
     <a href="https://blog.naver.com/sotabucks" target="_blank"><img src="https://img.shields.io/badge/Blog-03c75a?style=flat-square&logo=Blogger&logoColor=black"/></a>
     <a href="https://www.instagram.com/soutacchin_08/" target="_blank"><img src="https://img.shields.io/badge/Insta-e4405f?style=flat-square&logo=Instacart&logoColor=black"/></a>
     <a href="mailto: kimsoungyoon01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br><br>
+    <p>
     Hi there 👋<br>
+    My name is SeongYun !!<br>
     I want to work on web servers🎈<br>
-    Thank you for visiting my git😙<br><br>
+    Thank you for visiting my git😙<br>
+    </p>
     <h3>Learning 🎓</h3>
     <strong>Languages</strong><br><br>
     <div>
@@ -14,10 +18,8 @@
         <img src="https://img.shields.io/badge/Java-FC4C02?style=flat-square&logo=Strava&logoColor=white"/>
     </div>
     <br>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=SoutaBucks&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" style="width:59%; height:auto;"/>
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ms_pocha23" style="width:39%; height:auto;"/>
-    </div>
+    <img src="https://github-readme-stats.vercel.app/api?username=SoutaBucks&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" style="width:50%; height:auto;"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ms_pocha23" style="width:50%; height:auto;"/>
 </div>
 
 <!--
