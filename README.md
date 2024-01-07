@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://blog.naver.com/sotabucks" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square?logo=Blogger&logoColor=white"/></a>
+
+
 <!--
 **SoutaBucks/SoutaBucks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
