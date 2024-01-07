@@ -15,7 +15,12 @@ Thank you for visiting my git😙
 <img src="https://img.shields.io/badge/Java-FC4C02?style=flat-square&logo=Strava&logoColor=white"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagsoung@daum.net&show_icons=true&theme=radical)
+
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=SoutaBucks&show_icons=true&theme=radical"/>
+
+
+
 
 <!--
 **SoutaBucks/SoutaBucks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
