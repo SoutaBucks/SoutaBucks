@@ -17,7 +17,7 @@ Thank you for visiting my git😙
 
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=SoutaBucks&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&card_width=400px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SoutaBucks&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&card_width=100"/>
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ms_pocha23">
 
