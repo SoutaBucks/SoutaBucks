@@ -10,17 +10,17 @@ Thank you for visiting my git😙
 ### Learning 🎓
 <strong>Languages</strong><br>
 <div>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PyG&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-FC4C02?style=flat-square&logo=Strava&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PyG&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-FC4C02?style=flat-square&logo=Strava&logoColor=white"/>
 </div>
 
-
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=SoutaBucks&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" style="width:350px"/>
-
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ms_pocha23" style="width:350px"/>
-
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=SoutaBucks&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" style="width:350px"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ms_pocha23" style="width:350px"
+    />
+</div>
 
 <!--
 **SoutaBucks/SoutaBucks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
