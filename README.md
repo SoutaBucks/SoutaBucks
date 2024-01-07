@@ -1,4 +1,6 @@
 
+<div style="text-align:center;">
+
 <a href="https://blog.naver.com/sotabucks" target="_blank"><img src="https://img.shields.io/badge/Blog-03c75a?style=flat-square&logo=Blogger&logoColor=black"/></a>
 <a href="https://www.instagram.com/soutacchin_08/" target="_blank"><img src="https://img.shields.io/badge/Insta-e4405f?style=flat-square&logo=Instacart&logoColor=black"/></a>
 <a href="mailto: kimsoungyoon01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -16,11 +18,11 @@ Thank you for visiting my git😙
 </div>
 
 <br>
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=SoutaBucks&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" style="width:59%; height:auto;"/>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ms_pocha23" style="width:39%; height:auto;"/>
-</div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=SoutaBucks&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" style="height:auto;"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ms_pocha23" style="height:auto;"/>
+
+</div>
 
 <!--
 **SoutaBucks/SoutaBucks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
