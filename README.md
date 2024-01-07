@@ -1,5 +1,5 @@
 
-<div style="text-align:center;">
+<div align="center">
     <a href="https://blog.naver.com/sotabucks" target="_blank"><img src="https://img.shields.io/badge/Blog-03c75a?style=flat-square&logo=Blogger&logoColor=black"/></a>
     <a href="https://www.instagram.com/soutacchin_08/" target="_blank"><img src="https://img.shields.io/badge/Insta-e4405f?style=flat-square&logo=Instacart&logoColor=black"/></a>
     <a href="mailto: kimsoungyoon01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br><br>
