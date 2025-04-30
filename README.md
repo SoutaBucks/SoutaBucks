@@ -3,12 +3,12 @@
     <h2>Welcome to SoutaBucks ☕</h2>
     <a href="https://blog.naver.com/sotabucks" target="_blank"><img src="https://img.shields.io/badge/Diary-03c75a?style=flat-square&logo=naver&logoColor=black"/></a>
     <a href="https://velog.io/@soutacchin_08/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=black"/></a>
-    <a href="https://www.instagram.com/soutacchin_08/" target="_blank"><img src="https://img.shields.io/badge/Insta-e4405f?style=flat-square&logo=instagram&logoColor=black"/></a>
+    <a href="https://www.instagram.com/se0ng._.yun/" target="_blank"><img src="https://img.shields.io/badge/Insta-e4405f?style=flat-square&logo=instagram&logoColor=black"/></a>
     <a href="mailto: kimsoungyoon01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br><br>
     <p>
     Hi there 👋<br>
     My name is SeongYun !!<br>
-    I want to work on web servers🎈<br>
+    I want to work on BackEnd🎈<br>
     Thank you for visiting my git😙<br>
     </p>
     <h3>Learning 🎓</h3>
