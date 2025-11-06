@@ -7,7 +7,7 @@
     <a href="mailto: kimsoungyoon01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br><br>
     <p>
     Hi there 👋<br>
-    My name is SeongYun !!<br>
+    My name is SeongYun Kim !!<br>
     My major is Computer Science and I'm studying about backend🎈<br>
     Thank you for visiting my git😙<br>
     </p>
@@ -17,7 +17,18 @@
 
 ## 👨‍💻 About Me
 
-## 💪 Strengths & Weakness
+- 💼 **Currently**: Focusing on backend development and gaining practical experience
+- 🎯 **Goal**: To design and develop stable and scalable backend systems
+- 🌱 **Growth**: I enjoy learning new technologies and applying them to real-world projects
+
+### 🏆 Competitions
+- groomthonUniv Hackathon (2025) - Backend Part / Java, Spring
+- PNU Vibe Coding Hackathon (2025)
+
+### 💼 Internship Experience
+- Rakuten Group (25.08.18 ~ 25.08.22) - Backend & Front Part / Python, FastAPI, JavaScript
+- Nitori IT Field 
+- ANA IT Field (1 Day)
 
 ## 🛠️ Tech Stack
 <div align="center">
@@ -33,7 +44,6 @@
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
-
     </div>
     <h3>📚 Languages Learned</h3>
     <!-- Languages learned but not yet used in actual projects -->
