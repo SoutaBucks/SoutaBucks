@@ -29,7 +29,7 @@
 - Rakuten Group (25.08.18 ~ 25.08.22) - Backend & Front Part / Python, FastAPI, JavaScript
 - Nitori IT Field 
 - ANA IT Field (1 Day)
-- SoftBanck Group - Can't participate because of VISA
+- SoftBank Group - Can't participate because of VISA
 
 ## 🛠️ Tech Stack
 <div align="center">
