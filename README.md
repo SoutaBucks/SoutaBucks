@@ -26,12 +26,12 @@
     <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Java-FC4C02?style=flat-square&logo=Strava&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-        <img src="https://img.shields.io/badge/코틀린-7F52FF?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/코틀린-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 
     </div>
     <h3>📚 Languages Learned</h3>
