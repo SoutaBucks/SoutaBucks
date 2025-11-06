@@ -48,12 +48,11 @@
     </div>
     <h3>📚 Languages Learned</h3>
     <!-- Languages learned but not yet used in actual projects -->
-    <div>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-    </div>
-===
-<div align="center">    
+        <div>
+            <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+            <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+        </div>
+    ===
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=SoutaBucks&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" style="width:50%; height:auto;"/>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ms_pocha23" style="width:50%; height:auto;"/>
