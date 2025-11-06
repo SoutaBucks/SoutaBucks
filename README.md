@@ -31,13 +31,12 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/코틀린-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
     </div>
     <h3>📚 Languages Learned</h3>
     <!-- Languages learned but not yet used in actual projects -->
     <div>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
     </div>
 ===
