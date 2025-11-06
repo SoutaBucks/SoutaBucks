@@ -8,17 +8,40 @@
     <p>
     Hi there 👋<br>
     My name is SeongYun !!<br>
-    I want to work on BackEnd🎈<br>
+    My major is Computer Science and I'm studying about backend🎈<br>
     Thank you for visiting my git😙<br>
     </p>
-    <h3>Learning 🎓</h3>
-    <strong>Languages</strong><br><br>
+</div>    
+
+===
+
+## 👨‍💻 About Me
+
+## 💪 Strengths & Weakness
+
+## 🛠️ Tech Stack
+<div align="center">
+    <h3>💻 Languages Used in Development</h3>
+    <!-- Languages used in actual projects or development -->
     <div>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Java-FC4C02?style=flat-square&logo=Strava&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/코틀린-7F52FF?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+
     </div>
+    <h3>📚 Languages Learned</h3>
+    <!-- Languages learned but not yet used in actual projects -->
+    <div>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+    </div>
+===
+<div>    
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=SoutaBucks&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" style="width:50%; height:auto;"/>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ms_pocha23" style="width:50%; height:auto;"/>
