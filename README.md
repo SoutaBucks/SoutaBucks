@@ -45,7 +45,6 @@
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
-    </div>
     <h3>📚 Languages Learned</h3>
     <!-- Languages learned but not yet used in actual projects -->
         <div>
