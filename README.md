@@ -29,6 +29,7 @@
 - Rakuten Group (25.08.18 ~ 25.08.22) - Backend & Front Part / Python, FastAPI, JavaScript
 - Nitori IT Field 
 - ANA IT Field (1 Day)
+- SoftBanck Group - Can't participate because of VISA
 
 ## 🛠️ Tech Stack
 <div align="center">
@@ -52,15 +53,13 @@
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
     </div>
 ===
-<div>    
+<div align="center">    
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=SoutaBucks&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" style="width:50%; height:auto;"/>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ms_pocha23" style="width:50%; height:auto;"/>
 </div>
-
 <!--
 **SoutaBucks/SoutaBucks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
